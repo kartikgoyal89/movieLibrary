@@ -1,0 +1,16 @@
+.main-movie-container{
+    background-color: var(--color-ebebeb);
+}
+.left-part{
+    width: 75%;
+}
+
+.right-part{
+    width: 25%;
+}
+strong{
+    width: max-content;
+}
+p{
+    width: max-content;
+}

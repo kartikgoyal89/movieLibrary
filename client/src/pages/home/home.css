@@ -1,0 +1,65 @@
+.main-container{
+    background-color: var(--color-ebebeb);
+}
+.home-wrapper{
+    width: 100% !important;
+    overflow: hidden !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+}
+
+.slick-track{
+    width: 100% !important;
+}
+
+.item{
+    width: max-content !important;
+}
+
+.slick-slide{
+    width: max-content !important;
+}
+.slick-track{
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+}
+
+.home-wrapper-2 h3,.home-wrapper-3 h3,.home-wrapper-4 h3{
+    font-size: 24px;
+    font-weight: 600;
+    letter-spacing: -0.9px !important;
+}
+.genres-list{
+    font-weight: 600;
+    text-transform: uppercase;
+    font-size: 14px;
+    letter-spacing: -0.1px;
+    cursor: pointer;
+}
+.genres-list p{
+    margin-right: 10px;
+}
+.genres-list p:first-child{
+    color: var(--color-bf4800);
+}
+.genres-list p:hover{
+    color: var(--color-bf4800);
+}
+
+.home-wrapper-2{
+    padding: 0px 50px 30px 50px;
+}
+
+.home-wrapper-4 .div-left{
+    width: 60%;
+}
+
+.home-wrapper-4 .div-right{
+    width: 25%;
+}
+.celeb-name{
+    font-size: 14px;
+}
+

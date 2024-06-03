@@ -1,0 +1,12 @@
+.cast-container{
+    background-color: var(--color-ebebeb);
+}
+.img-part{
+    width: 25%;
+}
+.bio-part{
+    width: 50%;
+}
+.desc-part{
+    width: 20%;
+}
